@@ -1,20 +1,5 @@
-# A voice-enabled Android ChatBot powered by IBM Watson
-
-[![Build Status](https://travis-ci.org/IBM-Cloud/chatbot-watson-android.svg?branch=master)](https://travis-ci.org/IBM-Cloud/chatbot-watson-android)
-
-Learn how easy it is to build an IBM Watson powered ChatBot running on Android and using Watson Assistant (formerly Conversation),Text-to-Speech, Speech-to-Text Services on IBM Cloud (an open standards, cloud platform for building, running, and managing apps and services).
-
-<p align="center"><img src="images/architecture.png"/></p>
-
-For **step-by-step instructions**, refer this tutorial - [Build a voice-enabled Android chatbot](https://cloud.ibm.com/docs/tutorials?topic=solution-tutorials-android-watson-chatbot)
-
-The tutorial walks you through the process of defining intents and entities and building a dialog flow for your chatbot to respond to customer queries. You will learn how to enable Speech to Text and Text to Speech services for easy interaction with the Android app.
-
-<p align="center"><img src="images/android_chatbot.png" width="350" /><img src="images/android_watson_chatbot.png" width="350" /></p>
-
-## Solution Tutorials 
-For other solution tutorials, [click here](http://ibm.biz/solution-tutorials)
-## License
-
-See [License.txt](https://github.com/IBM-Cloud/chatbot-watson-android/blob/master/License.txt) for license information.
-# chatbot_voice_enabled
+Users need to sign up with email, phone number and residential address. Users go through the app and can use our three main services. In some cases, users might also provide health issues and age also.
+Functionalities of our App:
+Check your risk score
+Check the risk score of the location you want to visit
+Precautions to decrease/prevent coronavirus
